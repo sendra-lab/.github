@@ -45,8 +45,7 @@ See the [releases page](https://github.com/sendra-lab/Sendra/releases) for Windo
 
 ### Docs
 
-Full reference documentation, design decisions, and the changelog live at the [Sendra website](https://sendra-web.vercel.app) *(placeholder — swap for the real domain once it's live)*.
-
+Full reference documentation, design decisions, and the changelog live at the [Sendra website](https://sendra-web.vercel.app) 
 ### Status
 
 **v0.1.0 is out** — core CLI (`run`, `test`, assertions, chaining, environments, scripting, OAuth) and the full TUI are both shipped, in the same binary, available via GitHub Releases, npm, Homebrew, and crates.io.
